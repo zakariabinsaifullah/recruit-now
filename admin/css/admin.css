@@ -1,0 +1,45 @@
+/* @package Recruit Now
+* Admin Setting Page
+*/
+
+/* Plugin Head */
+.plugin-head {
+	background: #f7f7f7;
+	box-sizing: border-box;
+	padding: 15px 30px;
+	box-shadow: 0 1px 2px 0 rgb(0 0 0 / 5%), 0 1px 2px -1px rgb(0 0 0 / 5%);
+}
+
+div#wpcontent {
+	padding-left: 0;
+}
+
+.plugin-title {
+	margin: 0 0 10px;
+	padding: 0;
+	font-size: 1.4rem;
+}
+
+.plugin-description {
+	margin: 0;
+}
+
+/* Plugin body */
+.plugin-body {
+	padding: 10px 0 0 30px;
+}
+
+h2 {
+	margin-bottom: 0;
+	color: #000;
+}
+
+.setting-info {
+	margin-top: 8px;
+}
+
+.rcn_input,
+.wp-core-ui select,
+.form-table th {
+	min-width: 300px;
+}
